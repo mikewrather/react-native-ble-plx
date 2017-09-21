@@ -1,3 +1,6 @@
+**0.61.2**
+- Updated RxBluetoothKit dependency to version 3.1
+
 **0.6.1**
 - Updated RxAndroidBle library to version 1.3.3 which fixes internal issues which may
   block execution of operation queue.
